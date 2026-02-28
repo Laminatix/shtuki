@@ -1,6 +1,6 @@
 [
-  { "name": "Toofiz v4 REDUX", "version": "4v", "size": "4 ГБ", "download": "..." },
-  { "name": "Gucci Redux v2", "version": "v2", "size": "~3 ГБ", "download": "..." },
+  { "name": "Toofiz v4 REDUX", "type": "majrp", "version": "4v", "size": "4 ГБ", "download": "..." },
+  { "name": "Gucci Redux v2", "type": "majrp", "version": "v2", "size": "~3 ГБ", "download": "..." },
   
   
 ]
